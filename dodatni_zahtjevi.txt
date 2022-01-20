@@ -1,0 +1,14 @@
+*Podrška za različite tipove korisničkih naloga: (referent i admin).
+
+*Internacionalizacija (dva jezika, engleski i srpski). Internacionalizacija je podržana na nivou formi.
+	Korisnik bira preferiranu jezik. Sistem pamti korisnikov odabir te isti primjenjuje kada se korisnik prijavi na sistem.
+
+*Korisnička podešavanja. Tri  različitih
+teme-korisnik bira preferiranu temu. Sistem pamti korisnikov odabir te isti primjenjuje kada se korisnik prijavi na sistem.
+
+*Korisničko uputstvo. Uputstvo za korištenje aplikacije za krajnjeg
+	korisnika u PDF formatu.
+
+*Instalacija i uputstvo za instalaciju. Pripremljeni i posebno zapakovani svi
+	potrebni resursi i uputstvo za instalaciju (u PDF formatu).
+	

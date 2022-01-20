@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="buttonAddCity.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7BAAAOwQG4kWvtAAAAB3RJ
+        TUUH5QEZDjYLjnx0wwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAF5SURBVDhP
+        nVPLTQMxEN0LNAE0ANTAR1z4lgBpgE8bXBIiEFcKoAWCQgE5EXa9EQcEtsXZdpRLgsJ7zmTFshAknvQk
+        z5sZj2d2NvmO7C2sZiY0lfVPyvh+JM7U6JOwKtJ0PJ8bd42ED/BeWXecabdLKu1Oomb8SOlwxVhJm4CC
+        BGhUWRO5AiSvI8agUKt0iVTWPT1YEOlXPJvBIi9RNlxGgX1BGP1UOTPuCDwUs0BuwiZz0tewgiAMDM8X
+        XwnQb0gxS4DeBhvoy6cckuglzLog1+4Mvi6DAoxt0WnXwFvhi3Bq1yQsiV/HeM8E39NuR/ToyK0/J+F7
+        JKd2Kc64PbzexRbwglPRS0Dy3y1gohc4/GeID2A94afAgRu2Ib4CWOED+PbFLJCa/hb0YfoelqPA9YRg
+        uCRRmIGuHSwh1vLzi1T8By1ewiURuQKpbJVxd53OeE7kCeL/gPVEwAhsc7CcNCkDY89DVq4kf4XMpAF2
+        wSDkuV70XCBJPgEcUqmLDsSKAwAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="buttonAddCity.ToolTip" xml:space="preserve">
+    <value>Add city</value>
+  </data>
+  <data name="label7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>63, 21</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>Phone:</value>
+  </data>
+  <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>79, 21</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>Passport:</value>
+  </data>
+  <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>31, 21</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>ID:</value>
+  </data>
+  <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 21</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>City:</value>
+  </data>
+  <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>76, 21</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Address:</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>97, 21</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Last Name:</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>95, 21</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>First Name:</value>
+  </data>
+  <data name="buttonModifyClient.Text" xml:space="preserve">
+    <value>Edit client</value>
+  </data>
+  <data name="labelWarningMail.Size" type="System.Drawing.Size, System.Drawing">
+    <value>105, 21</value>
+  </data>
+  <data name="labelWarningMail.Text" xml:space="preserve">
+    <value>Enter E-mail!</value>
+  </data>
+  <data name="labelWarningPhone.Location" type="System.Drawing.Point, System.Drawing">
+    <value>600, 230</value>
+  </data>
+  <data name="labelWarningPhone.Size" type="System.Drawing.Size, System.Drawing">
+    <value>110, 21</value>
+  </data>
+  <data name="labelWarningPhone.Text" xml:space="preserve">
+    <value>Enter phone!</value>
+  </data>
+  <data name="labelWarningPassport.Location" type="System.Drawing.Point, System.Drawing">
+    <value>601, 160</value>
+  </data>
+  <data name="labelWarningPassport.Size" type="System.Drawing.Size, System.Drawing">
+    <value>126, 21</value>
+  </data>
+  <data name="labelWarningPassport.Text" xml:space="preserve">
+    <value>Enter passport!</value>
+  </data>
+  <data name="labelWarningPid.Location" type="System.Drawing.Point, System.Drawing">
+    <value>548, 90</value>
+  </data>
+  <data name="labelWarningPid.Size" type="System.Drawing.Size, System.Drawing">
+    <value>76, 21</value>
+  </data>
+  <data name="labelWarningPid.Text" xml:space="preserve">
+    <value>Enter ID!</value>
+  </data>
+  <data name="labelWarningCity.Size" type="System.Drawing.Size, System.Drawing">
+    <value>94, 21</value>
+  </data>
+  <data name="labelWarningCity.Text" xml:space="preserve">
+    <value>Select city!</value>
+  </data>
+  <data name="labelWarningAddress.Size" type="System.Drawing.Size, System.Drawing">
+    <value>119, 21</value>
+  </data>
+  <data name="labelWarningAddress.Text" xml:space="preserve">
+    <value>Enter address!</value>
+  </data>
+  <data name="labelWarningLastName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>198, 160</value>
+  </data>
+  <data name="labelWarningLastName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>142, 21</value>
+  </data>
+  <data name="labelWarningLastName.Text" xml:space="preserve">
+    <value>Enter Last Name!</value>
+  </data>
+  <data name="labelWarningFirstName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>198, 90</value>
+  </data>
+  <data name="labelWarningFirstName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>140, 21</value>
+  </data>
+  <data name="labelWarningFirstName.Text" xml:space="preserve">
+    <value>Enter First Name!</value>
+  </data>
+  <data name="label9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>97, 22</value>
+  </data>
+  <data name="label9.Text" xml:space="preserve">
+    <value>Edit client</value>
+  </data>
+  <data name="buttonClose.Text" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+</root>

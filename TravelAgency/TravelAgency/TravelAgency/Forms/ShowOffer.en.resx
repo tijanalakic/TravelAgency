@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="buttonClose.Text" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>204, 22</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Travel offer overview</value>
+  </data>
+  <data name="label11.Size" type="System.Drawing.Size, System.Drawing">
+    <value>168, 21</value>
+  </data>
+  <data name="label11.Text" xml:space="preserve">
+    <value>Transportation type:</value>
+  </data>
+  <data name="label10.Size" type="System.Drawing.Size, System.Drawing">
+    <value>101, 21</value>
+  </data>
+  <data name="label10.Text" xml:space="preserve">
+    <value>Description:</value>
+  </data>
+  <data name="label9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 21</value>
+  </data>
+  <data name="label9.Text" xml:space="preserve">
+    <value>Capacity:</value>
+  </data>
+  <data name="label8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 21</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>City:</value>
+  </data>
+  <data name="label7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 21</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>Price</value>
+  </data>
+  <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>129, 21</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>Available seats</value>
+  </data>
+  <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>77, 21</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>Country:</value>
+  </data>
+  <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 21</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>Title:</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>62, 21</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Return</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>95, 21</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Departure:</value>
+  </data>
+  <data name="tabPage1.Text" xml:space="preserve">
+    <value>Offer overview</value>
+  </data>
+  <data name="buttonCancel.Text" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="label13.Size" type="System.Drawing.Size, System.Drawing">
+    <value>311, 22</value>
+  </data>
+  <data name="label13.Text" xml:space="preserve">
+    <value>Travel offer passengers overview</value>
+  </data>
+  <data name="label12.Size" type="System.Drawing.Size, System.Drawing">
+    <value>217, 21</value>
+  </data>
+  <data name="label12.Text" xml:space="preserve">
+    <value>Add client from database:</value>
+  </data>
+  <data name="label22.Size" type="System.Drawing.Size, System.Drawing">
+    <value>111, 21</value>
+  </data>
+  <data name="label22.Text" xml:space="preserve">
+    <value>Passenger list</value>
+  </data>
+  <data name="buttonRemovePassanger.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAB3RJ
+        TUUH5QEUFQgItKmqSAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAANoSURBVFhH
+        7VZJaBRREI0LKnoQURTRi6K4gOAGCqJ4UvEgXvQgogRUDC6IuByMevAiHvTgGsGDXsRBEREEURA1RsQF
+        YuwlG5Okf3dGhUn3/2MkY5L21UwlmcTOdGZ6cvPBY+a/rq5fXV1Vv8vy4ZPjTNaFd8wQ8h2YBH+D9Yal
+        ruqWt5DNRgdmm7vaEKoVG7pglWnLcsPydhm2OmfY8hu0NLSTbF5aGFZqGTaQ4NN6R85guR++749FMEcy
+        QQhVyXJpkHEuZK0pvJevfH88y4HQLbkPtj2a3bGCpehAWrfB6R/N8hawlBe6kG9hH+NldOD93gZf8zIU
+        hiX3IwCFzI1jKRoM4b1A+q/zMhTokrUIwNdbfs1mKRrQYs/h9CYvQ4FXto4CaEqomSxFAz09HNbwMhS6
+        rQ6ZQnZQ8bIUDYbjbkIAPdSKLA2LbMeoz7C/y1J0wOkYygCq+0M87k9iORC6LU/BNo1ZsZil0qCh1Z0P
+        xz/BajPhzmO5HxQY6uQCrvdiEFWwXFrQrMcGtWAX+AhD57RpeUcxAa9hLUCalHvZfHRAvU3z37TkY2xm
+        0sY0eHShztZ9T81is0GgutBEajlqaVUfR/3gygUOq/MI1B/CXs2R69mkMKDPF1EW6FjG+z5j2N5hzIqN
+        tYnEFDYZBLyqO8jSs6+t7rQ+IoBOvL7dbBKOxkZ/Im46DlLa6QnoOyCeOYZt2c5aCv1/r8FRS+B8C9ZP
+        aIri1wZ/ZP/3UXaDdfw/lrdr9Da1AUYtoMLTXMKhtGbokKGxmz0JvS/sPA0+RLYuhhEP8JFmB7saDKR5
+        Dxyh6r37wxVZLrIzQx3APdSOleCOMGKPB7CPs4sBcBq7qYjIMcsjAmUK9+YWXT526Y7czrdm0Sg65+JC
+        spBDKBdau1pKzqkeWAoEMlABO5uXA4BYhcpt0jR/AksFIVIA9VbnHIhpajWWCkakACAehOgW+/SE3AB0
+        x11JxYb1dFT8CbpOhxbNg+AAMGapMnlZFHIDyLSakO8xfreSxoPIp2M+MAB802n0rc/LojCiANq8zcEB
+        YGohC2/wWxWBMbDoAG4NjMxiKWtoEwqAzgnaiIv7Ms0UrK/Q9AwMoBRobk5OheM0aukGNgmcgOBOznQ1
+        31ZaIPXlcI5DqH/i/UscZtQlfMt/AGVlfwFXK4HtOeYynAAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="buttonAddPassanger.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAB3RJ
+        TUUH5QEUFQgsiKpOmQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAO+SURBVFhH
+        7VdJaFNRFI0DOOCMCk6Iw8JZnBaiIIigbhRFcGPBlYJuBAcEh0WFoggOmzqASFUooihaUFCkFaHihKVt
+        /v9pWtvmD42tbfLfT1NR2++5L7dpYzPVpBvxwCXvnnfffIcfTzr4W5xpmmEXqobzSTNESDVEG6RSM8Vx
+        b2vrODYbGii62KXqwsaCTZAiTbf3KYZdoBnOZeitEBMb2cDm+QUm3oEFurGBi36/O4rpOLS2tvGq6dyD
+        TVQLhNcynR98bgxNwsTfFMO5wlRSuK47TDXFI9iq5a47kuncgQmPQoIfLWssUymhBTpnwva7qju7mcod
+        qmG/xFtfYzUjcAvPITdZzR04UR02cITVjIg5pfOC1dyBDdQopjjBakZgs8UYU8Zq7sCE9zHhQ1YzQuYI
+        U5xnNXfgSveQY2nB8DymUsJniY2w7clrKCK8hmPS95DKdJFAWVIxRD3sHjCVPyhWaC4mNuh6fQF7HdNx
+        qAF7K5LUF9jUUN5gOr+gGMcJn2ERF2FWi/AspdNCGiDdqA13/O3tE9h86KBY4dVIu2exaAnkNkUI3n4R
+        d//j8BmRlYiK03iKuzj9q5jgKUxxTNUjy9ksAeQzqCNnUE1vwf46JTV/ILyAu7MDSu82DK6CuJA6rnyX
+        pMTaVKLJN16jDmyiMXWWsxhcBfO1mi4eo10G0SHSZ7y6PUUukApUeskwPqDFWcJdA0CxDztyyh4I+UcH
+        pFzTIyvYRIKqpk+3t3PIqkpT5wzuSoSuu2PkiQzxlRIM0xmBKy7AGNyUXZquLNPpYVdNa9CmmO4Dn9zK
+        JgP2B0dIIx2AKQn4zimk6J2sSlD0wPbHgPKtmM5e2WGI9UxlDYwxk1VP8BXwgwusxsG15imr8o1GgFDR
+        UcxU1qgPOtMx1u19d0rj1Fat8BrKougroTauf6EcAIA/gGdoYTXu8b98enQWU1lDCTjL5AaQNUnHtW8m
+        PYn8bGjomCjH0MeuIbqoLYE3vEqOweqggDedSgt4zdAqpjx+Izq7rjk8H17/Dn03qE123E3PfQi8waq8
+        Enzz24WsDgrkzTK8dHGSqTiwSFIfAP8E0ldBoVjY1eHq5vDkvxGML6I37b3iXtCcihnZwqpEzDdEN+UF
+        puQGHEiydxuc4OP0z1DsjxozOgd2VEkTP9+8zc5S2mkqoVQrd55G2JGDkCoaQ9HA03saG93R4PfLflN8
+        oFvjrvyCTsj5n1JzEL7xBr9vIXTDXfT1nM1/jZxBlQ+OfZA+VJFbztF/yv5R8B+J8Hh+Ay00AgBkBAq5
+        AAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="buttonAddPassanger.Text" xml:space="preserve">
+    <value>Add passenger</value>
+  </data>
+  <data name="ColumnJMBG.HeaderText" xml:space="preserve">
+    <value>ID</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="ColumnJMBG.Width" type="System.Int32, mscorlib">
+    <value>52</value>
+  </data>
+  <data name="ColumnIme.HeaderText" xml:space="preserve">
+    <value>First Name</value>
+  </data>
+  <data name="ColumnPrezime.HeaderText" xml:space="preserve">
+    <value>Last Name</value>
+  </data>
+  <data name="ColumnTelefon.HeaderText" xml:space="preserve">
+    <value>Phone</value>
+  </data>
+  <data name="ColumnPassport.HeaderText" xml:space="preserve">
+    <value>Passport</value>
+  </data>
+  <data name="tabPage2.Text" xml:space="preserve">
+    <value>Add passenger</value>
+  </data>
+</root>

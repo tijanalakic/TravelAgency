@@ -1,0 +1,144 @@
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\TravelAgency.exe.config
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\TravelAgency.exe
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\TravelAgency.pdb
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\en\TravelAgency.resources.dll
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\BouncyCastle.Crypto.dll
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\EntityFramework.dll
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\EntityFramework.SqlServer.dll
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\Google.Protobuf.dll
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\K4os.Compression.LZ4.dll
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\K4os.Compression.LZ4.Streams.dll
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\K4os.Hash.xxHash.dll
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\MySql.Data.dll
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\MySql.Data.EntityFramework.dll
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\MySqlConnector.dll
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\Renci.SshNet.dll
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\System.Buffers.dll
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\System.Memory.dll
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\System.Numerics.Vectors.dll
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\Ubiety.Dns.Core.dll
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\Zstandard.Net.dll
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\EntityFramework.xml
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\EntityFramework.SqlServer.xml
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\Google.Protobuf.pdb
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\Google.Protobuf.xml
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\K4os.Compression.LZ4.xml
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\K4os.Compression.LZ4.Streams.xml
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\K4os.Hash.xxHash.xml
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\MySql.Data.xml
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\MySql.Data.EntityFramework.xml
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\MySqlConnector.xml
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\Renci.SshNet.xml
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\System.Buffers.xml
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\System.Memory.xml
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\System.Numerics.Vectors.xml
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.CityForm.resources
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.ClientForm.resources
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.ClientModifyForm.resources
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.ClientViewForm.resources
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.CountryForm.resources
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.LoginForm.resources
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.MainForm.resources
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.OfferForm.resources
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.OfferModifyForm.resources
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.ShowOffer.resources
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.UserForm.resources
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.UserModifyForm.resources
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.UserViewForm.resources
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Properties.Resources.resources
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.CityForm.en.resources
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.ClientForm.en.resources
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.ClientModifyForm.en.resources
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.ClientViewForm.en.resources
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.CountryForm.en.resources
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.LoginForm.en.resources
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.MainForm.en.resources
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.OfferForm.en.resources
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.OfferModifyForm.en.resources
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.ShowOffer.en.resources
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.UserForm.en.resources
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.UserModifyForm.en.resources
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.UserViewForm.en.resources
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.csproj.GenerateResource.cache
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.csproj.CoreCompileInputs.cache
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\en\TravelAgency.resources.dll
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.csproj.CopyComplete
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.exe
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.pdb
+D:\Downloads\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.csprojAssemblyReference.cache
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\TravelAgency.exe.config
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\TravelAgency.exe
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\TravelAgency.pdb
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\en\TravelAgency.resources.dll
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\EntityFramework.dll
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\Google.Protobuf.dll
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\MySql.Data.dll
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\MySql.Data.EntityFramework.dll
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\MySqlConnector.dll
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\Renci.SshNet.dll
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\System.Buffers.dll
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\System.Memory.dll
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\Zstandard.Net.dll
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\EntityFramework.xml
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\Google.Protobuf.pdb
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\Google.Protobuf.xml
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\MySql.Data.xml
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\MySql.Data.EntityFramework.xml
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\MySqlConnector.xml
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\Renci.SshNet.xml
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\System.Buffers.xml
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\System.Memory.xml
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.csprojAssemblyReference.cache
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.CityForm.resources
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.ClientForm.resources
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.ClientModifyForm.resources
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.ClientViewForm.resources
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.CountryForm.resources
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.LoginForm.resources
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.MainForm.resources
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.OfferForm.resources
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.OfferModifyForm.resources
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.ShowOffer.resources
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.UserForm.resources
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.UserModifyForm.resources
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.UserViewForm.resources
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Properties.Resources.resources
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.CityForm.en.resources
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.ClientForm.en.resources
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.ClientModifyForm.en.resources
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.ClientViewForm.en.resources
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.CountryForm.en.resources
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.LoginForm.en.resources
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.MainForm.en.resources
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.OfferForm.en.resources
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.OfferModifyForm.en.resources
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.ShowOffer.en.resources
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.UserForm.en.resources
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.UserModifyForm.en.resources
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.Forms.UserViewForm.en.resources
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.csproj.GenerateResource.cache
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.csproj.CoreCompileInputs.cache
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\en\TravelAgency.resources.dll
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.csproj.CopyComplete
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.exe
+C:\Users\Tijana Lakic\Desktop\Projekat_B-TravelAgency\TravelAgency\TravelAgency\TravelAgency\obj\Release\TravelAgency.pdb
